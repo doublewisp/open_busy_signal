@@ -9,5 +9,5 @@ This is a manual controlled signal that goes outside with three states:
 
 The three buttons activates the different states.
 
-###Notes
+### Notes
 The **ledStates[]** array is not useful in this project since there's no need to check or invert the current state of the leds
